@@ -1,0 +1,16 @@
+[
+    {
+        "PARAMETERS": {
+        "root_folder": "\\\\Bredt1-svfsvp02\\AXWAY_BACKUP\\EDI\\1.ENVIO\\2.ESTACIONAMENTO",
+        "filesSource":  ".\\arquivos-para-enviar", 
+        "SubFolders": "",
+        "Destinations": "lista-de-remetente.txt"
+        }
+    },
+    {
+        "logs_path": ".\\logs",
+        "log_name": "Envia.log"
+    }
+
+]
+
